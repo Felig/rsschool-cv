@@ -1,7 +1,7 @@
 # Artiom Yakovlev
 
 ## Summary: Junior Front-end Developer
-Beginner Front-End Developer with little of programming experience.
+I am a вeginner Front-end developer with little of programming experience.
 I have experience in various fields: engineering, photography, small computer business.
 
 ## Computer skills:
@@ -11,13 +11,13 @@ I have experience in various fields: engineering, photography, small computer bu
 * Version control system: *Git, Windchill*
 
 ## Experience:
-* Automotive Design Engineer, Minsk Wheel Tractor Plant, 6 years.
+* Automotive design engineer, Minsk Wheel Tractor Plant, 6 years.
 * Private entrepreneur, computer master, 3 years.
 * Photographer, photo editing.
 
 ## Education:
-* Belarusian National Technical University (Internal Combustion Engines, Mechanical Engineer), 2014
-* College of Light Industry (Computer's Operator), 2009
+* Belarusian National Technical University (Internal combustion engines, mechanical engineer), 2014
+* College of light industry (Computer's operator), 2009
 
 **Courses**
 * EPAM UPSkill Lab, 2020
@@ -25,10 +25,11 @@ I have experience in various fields: engineering, photography, small computer bu
 * BGU, Web-design and computer graphics, 2018
 
 ## Languages:
-* **English** - Level Elementary. I’m use the application “Duolingo” and learn from English videos.
-* **German (Deutsch)** - Level Elementary. I studied German at school.
+* **English** - level elementary. I’m use the application “Duolingo” and learn from English videos.
+* **German (Deutsch)** - level elementary. I studied German at school.
 
 ## Contacts:
 * Email: *feligrando@ya.ru*
-* Phone: *+375259529092* (You can call and write to Telegram)
+* Phone: *+375(25)952-90-92* (You can call and write to Telegram)
 * [GitHub](https://github.com/Felig)
+* [vk.com](https://vk.com/artem_yakowlew)
