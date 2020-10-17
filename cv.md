@@ -6,7 +6,7 @@ I have experience in various fields: engineering, photography, small computer bu
 
 ## Computer skills:
 * Programming and markup languages: *HTML, CSS, JS*
-* Tools: *VSCode, Photoshop, Lightroom, InDesign, Premiere, Sony Vegas, Corel, Creo Parametric, AutoCAD, СЭД-Directum*
+* Tools: *VS Code, Sublime text, Photoshop, Lightroom, InDesign, Premiere, Sony Vegas, Corel, Creo Parametric, AutoCAD, СЭД-Directum*
 * Operating system: *Windows*
 * Version control system: *Git, Windchill*
 
@@ -16,8 +16,11 @@ I have experience in various fields: engineering, photography, small computer bu
 * Photographer, photo editing.
 
 ## Education:
-* Belarusian National Technical University (Internal combustion engines, mechanical engineer), 2014
-* College of light industry (Computer's operator), 2009
+
+Educational institution | Specialty | Graduation year
+------------ | ------------- | ----
+Belarusian National Technical University | Internal combustion engines, mechanical engineer | 2014
+College of light industry | Computer's operator | 2009
 
 **Courses**
 * EPAM UPSkill Lab, 2020
@@ -30,6 +33,6 @@ I have experience in various fields: engineering, photography, small computer bu
 
 ## Contacts:
 * Email: *feligrando@ya.ru*
-* Phone: *+375(25)952-90-92* (You can call and write to Telegram)
+* Phone: *+375 (25) 952-90-92* (You can call and write to Telegram)
 * [GitHub](https://github.com/Felig)
 * [vk.com](https://vk.com/artem_yakowlew)
