@@ -1,1 +1,1 @@
-https://Felig.github.io/rsschool-cv/cv
+https://Felig.github.io/rsschool-cv/index
