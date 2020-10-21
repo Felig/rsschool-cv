@@ -35,17 +35,17 @@ header {
   margin-top: 0;
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap-reverse;
+  flex-wrap: wrap;
   padding-bottom: 20px;
 }
 
 .contact_block_1 {
   line-height: 1.7;
+  padding-right: 30px;
 }
 
 .contact_block_2 {
   line-height: 1.7;
-  padding-left: 30px;
 }
 
 figure {
